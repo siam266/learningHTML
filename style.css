@@ -1,0 +1,23 @@
+blockquote{
+    color: tomato;
+}
+
+table, tr, th, td{
+    border: 1px solid ;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+.title{
+    background-color: turquoise;
+}
+
+video{
+    height: 300px;
+    width: 300px;
+    
+}
+
+audio{
+    display: block;
+}
